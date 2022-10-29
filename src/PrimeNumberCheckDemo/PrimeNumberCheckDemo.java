@@ -20,7 +20,7 @@ public class PrimeNumberCheckDemo {
         int num,i,count=0;
         
         
-   //take user input user 
+   //take user input from user 
         
         //import package by press alter+enter
         Scanner input=new Scanner(System.in);
